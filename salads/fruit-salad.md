@@ -5,7 +5,6 @@
 
 - 1 cup strawberries, hulled and halved
 - 1 cup blueberries
-- 1 cup grapes, halved
 - 1 banana, sliced
 - 1 apple, cored and chopped
 - 1 orange, peeled and sectioned
@@ -19,7 +18,6 @@
 1. **Prepare the Fruits:**
    - Wash all the fruits thoroughly under running water.
    - Hull and halve the strawberries.
-   - Halve the grapes.
    - Slice the banana.
    - Core and chop the apple.
    - Peel and section the orange.
